@@ -13,14 +13,14 @@ another common request for junior web developers.
 -This project resolves otherwise inaccessible websites by meeting accessibility standards by providing alternative text to images and utilizing
 semantic HTML elements to standardize layouts for screen-reading capabilities.
 
--Completion of this project allowed for me to become more knowledgeable on the process of deploying a site to GitHub and clone repositories 
+- Completion of this project allowed for me to become more knowledgeable on the process of deploying a site to GitHub and clone repositories 
 while furthering my understanding of HTML and CSS.
 
 
 
 
 # Installation
-In order to install my project you will need the following:
+In order to install my project you will need the following
 -Git
 -IDE with HTML capabilities 
 
@@ -34,7 +34,7 @@ Clone the repository on GitHub then open Git on your local machine. First find a
 The purpose of this project is to improve on accessibility options by providing alt text for photos and improving the starter code structure.
 
 ```md 
-![Horiseon](../Assets/01-html-css-git-homework-demo.png)
+![alt text](Assets/01-html-css-git-homework-demo.png)
 ```
 
 
