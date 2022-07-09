@@ -33,7 +33,7 @@ Clone the repoitory on GitHub then open Git on your local machine.First find a l
 # Usage 
 
 ```md 
-![Horiseon](assets/01-html-css-git-homework-demo.png)
+![Horiseon](Assets/01-html-css-git-homework-demo.png)
 ```
 
 
