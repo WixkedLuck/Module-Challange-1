@@ -31,9 +31,10 @@ Clone the repoitory on GitHub then open Git on your local machine.First find a l
 -To deploy to your ide type code. 
 
 # Usage 
+The purpose of this project is to imporve on accessibility options by providing alt text for photos and improving the starter code structure.
 
 ```md 
-![Horiseon](Assets/01-html-css-git-homework-demo.png)
+![Horiseon](./Assets/01-html-css-git-homework-demo.png)
 ```
 
 
