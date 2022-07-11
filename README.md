@@ -34,9 +34,9 @@ Clone the repository on GitHub then open Git on your local machine. First find a
 # Usage 
 The purpose of this project is to improve on accessibility options by providing alt text for photos and improving the starter code structure.
 
-```md 
-![alt text](Assets/01-html-css-git-homework-demo.png)
-```
+```md
+    ![alt text](./images/01-html-css-git-homework-demo.png)
+    ```
 
 
 # Deployed Site
